@@ -8,4 +8,4 @@ Sonra bu projesi zip şeklide indiriyoruz. Ardından boş bir dosya açıp zip (
 
 # Önemli!
 
-Arkadaşlar direk terminale `node app.js` yazıp mesaj yazılmasını beklemeyin 3 saniye sonra terminale mesaj geliyor. Siz app.js den 4. satırdaki await sleep(3000) kısmını istediğiniz gibi yapabilirsiniz. iyi günler. :)
+Arkadaşlar direk terminale `node app.js` yazıp mesaj yazılmasını beklemeyin 3 saniye sonra terminale mesaj geliyor. Siz app.js den 5. satırdaki await sleep(3000) kısmını istediğiniz gibi yapabilirsiniz. iyi günler. :)
